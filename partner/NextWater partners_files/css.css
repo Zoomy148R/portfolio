@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "IntroRustBook-Base";
+  src: url(../NextWater\ partners_files/fonts/IntroRustBook-Base.ttf);
+  font-style: normal;
+  font-weight: normal;
+}
+*body {
+  font-family: "IntroRustBook-Base";
+  font-style: normal;
+  font-weight: normal;
+}
